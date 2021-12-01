@@ -1,0 +1,150 @@
+/*Output
+       
+ 1-create()
+2-Insert_begin
+3-Insert_end
+4-insert_position
+5-delete_begin
+6-delete_end
+7-delete_pos
+8-display
+9-reverse display
+10-Searching
+11-Sorting
+12-exit
+Enter your choice1
+Enter the no.of nodes3
+1
+2
+3
+1-create()
+2-Insert_begin
+3-Insert_end
+4-insert_position
+5-delete_begin
+6-delete_end
+7-delete_pos
+8-display
+9-reverse display
+10-Searching
+11-Sorting
+12-exit
+Enter your choice2
+0
+1-create()
+2-Insert_begin
+3-Insert_end
+4-insert_position
+5-delete_begin
+6-delete_end
+7-delete_pos
+8-display
+9-reverse display
+10-Searching
+11-Sorting
+12-exit
+Enter your choice3
+4
+1-create()
+2-Insert_begin
+3-Insert_end
+4-insert_position
+5-delete_begin
+6-delete_end
+7-delete_pos
+8-display
+9-reverse display
+10-Searching
+11-Sorting
+12-exit
+Enter your choice4
+Enter the position5
+Enter the element8
+1-create()
+2-Insert_begin
+3-Insert_end
+4-insert_position
+5-delete_begin
+6-delete_end
+7-delete_pos
+8-display
+9-reverse display
+10-Searching
+11-Sorting
+12-exit
+Enter your choice8
+0
+1
+2
+3
+8
+4
+1-create()
+2-Insert_begin
+3-Insert_end
+4-insert_position
+5-delete_begin
+6-delete_end
+7-delete_pos
+8-display
+9-reverse display
+10-Searching
+11-Sorting
+12-exit
+Enter your choice5
+The deleted element is 01-create()
+2-Insert_begin
+3-Insert_end
+4-insert_position
+5-delete_begin
+6-delete_end
+7-delete_pos
+8-display
+9-reverse display
+10-Searching
+11-Sorting
+12-exit
+Enter your choice6
+The deleted element is 41-create()
+2-Insert_begin
+3-Insert_end
+4-insert_position
+5-delete_begin
+6-delete_end
+7-delete_pos
+8-display
+9-reverse display
+10-Searching
+11-Sorting
+12-exit
+Enter your choice7
+Enter the position4
+Deleted elment is 81-create()
+2-Insert_begin
+3-Insert_end
+4-insert_position
+5-delete_begin
+6-delete_end
+7-delete_pos
+8-display
+9-reverse display
+10-Searching
+11-Sorting
+12-exit
+Enter your choice9
+3
+2
+1
+1-create()
+2-Insert_begin
+3-Insert_end
+4-insert_position
+5-delete_begin
+6-delete_end
+7-delete_pos
+8-display
+9-reverse display
+10-Searching
+11-Sorting
+12-exit
+Enter your choice
